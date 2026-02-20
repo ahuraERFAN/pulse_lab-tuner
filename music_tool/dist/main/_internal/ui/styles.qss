@@ -1,0 +1,67 @@
+/* ---------- Global ---------- */
+
+QWidget {
+    background-color: #121212;
+    color: #eeeeee;
+    font-family: "Segoe UI", "Ubuntu", sans-serif;
+}
+
+/* ---------- Tabs ---------- */
+
+QTabWidget::pane {
+    border: 1px solid #222;
+}
+
+QTabBar::tab {
+    background: #1e1e1e;
+    padding: 10px 20px;
+    margin: 2px;
+    border-radius: 6px;
+}
+
+QTabBar::tab:selected {
+    background: #2a2a2a;
+}
+
+/* ---------- Labels ---------- */
+
+QLabel {
+    color: #ffffff;
+}
+
+/* ---------- Buttons ---------- */
+
+QPushButton {
+    background-color: #2a2a2a;
+    border: 1px solid #333;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+QPushButton:hover {
+    background-color: #3a3a3a;
+}
+
+QPushButton:pressed {
+    background-color: #00aa88;
+}
+
+/* ---------- Slider ---------- */
+
+QSlider::groove:horizontal {
+    background: #333;
+    height: 6px;
+    border-radius: 3px;
+}
+
+QSlider::handle:horizontal {
+    background: #00aa88;
+    width: 16px;
+    margin: -6px 0;
+    border-radius: 8px;
+}
+
+QSlider::sub-page:horizontal {
+    background: #00aa88;
+    border-radius: 3px;
+}
