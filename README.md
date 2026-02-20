@@ -1,7 +1,7 @@
 #  PulseLab Tuner
 
-<img width="479" height="874" alt="Screenshot 2026-02-20 154552" src="https://github.com/user-attachments/assets/acfcb854-f0a9-432e-84ef-3faced462631" />
-<img width="482" height="866" alt="Screenshot 2026-02-20 154542" src="https://github.com/user-attachments/assets/8859b998-2f69-4348-8ba7-4ba82c886bb4" />
+<img width="279" height="487" alt="Screenshot 2026-02-20 154552" src="https://github.com/user-attachments/assets/acfcb854-f0a9-432e-84ef-3faced462631" />
+<img width="279" height="487" alt="Screenshot 2026-02-20 154542" src="https://github.com/user-attachments/assets/8859b998-2f69-4348-8ba7-4ba82c886bb4" />
 
 A professional real-time **Tuner & Metronome** application built with Python and PySide6.
 
